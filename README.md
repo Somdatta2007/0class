@@ -1,0 +1,2 @@
+# 0class
+class
